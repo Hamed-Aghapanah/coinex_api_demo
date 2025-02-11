@@ -1,0 +1,16 @@
+{
+    "symbols": [
+        "BTC",
+        "ETH",
+        "LTC"
+    ],
+    "prices": {
+        "BTC": 30000.5,
+        "ETH": 1800.3,
+        "LTC": 50.2
+    },
+    "metadata": {
+        "timestamp": "2024-12-12T10:00:00Z",
+        "source": "CoinEx API"
+    }
+}
