@@ -1,0 +1,10 @@
+{
+    "username": "user",
+    "password": "pass1",
+    "api_key": "api1",
+    "password_key": "pass1",
+    "balance": 10000,
+    "time": "2025-02-12 00:10:58.375570+00:00",
+    "Number of Open Positions": 5,
+    "Number of Close Positions": 3
+}
